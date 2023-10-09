@@ -1,4 +1,6 @@
 {
   "pixelopen.plausible.panel.name": "Estadísticas",
   "pixelopen.plausible.panel.title": "Estadísticas del sitio web",
+  "pixelopen.plausible.panel.nolink": "You need to set pixelopen.plausible.plausibleLink in config.php",
+  "pixelopen.plausible.panel.noiframe": "Something seems to prevent the showing of the iframe. Please check your navigator extensions (AdBlock, uBlock...)."
 }
